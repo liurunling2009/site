@@ -1,0 +1,2 @@
+AddHandler application/iphone .ipa
+AddHandler application/vnd.android.package-archive .apk
